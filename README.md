@@ -4,6 +4,14 @@ This repository contains the checkpoint implementation of the **Games@Cloud** pr
 
 All **server source code** and **deployment scripts** are located under the [`files`](./files) folder. The `javassist` folder includes its own `README.md` explaining in more detail how the instrumentation works. A demonstration video (`video-ccv-aws-p1.mp4`) is provided to show the system in action and the deployment procedure. The assignment report (`ccv-report-aws-p1.pdf`) is also included, summarizing the architecture, implemented components, and next steps.  
 
+## To watch the video:
+
+1. Install Git LFS (if you haven’t already):
+   ```bash
+   git lfs install
+   ```
+2. Clone the repository as usual.
+
 ---
 
 ## AWS CLI Automation
